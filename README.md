@@ -12,7 +12,8 @@ This Power BI dashboard provides a detailed overview of Blinkit's sales, custome
 - 🔄 Feedback Breakdown: Delivery, Customer Service, Product Quality
 
 ## Screenshots:
-![Dashboard Image](Dashboard-Screenshot.png)
+![Dashboard Image](  dashboard screenshot image )
+
 
 ## File Included:
 - `Blinkit_Dashboard.pbix` – Power BI file
